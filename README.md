@@ -9,14 +9,14 @@ https://labs.play-with-docker.com/
     cat /var/jenkins_home/secrets/initialAdminPassword #copy password
     
 Steps:
-    - Jenkins Home 
-    - New Item > Name "test" >Select  FreeStype Project > Ok
-    - Select "GitHub project"
-    - Source Code Management > "Git"
-    - Repo Url "https://github.com/j-thepac/HelloWorld.git"
-    - Branch "main"
-    - Build Steps > Execute Shell
-    - Select either of the below code 
+- Jenkins Home 
+- New Item > Name "test" >Select  FreeStype Project > Ok
+- Select "GitHub project"
+- Source Code Management > "Git"
+- Repo Url "https://github.com/j-thepac/HelloWorld.git"
+- Branch "main"
+- Build Steps > Execute Shell
+- Select either of the below code 
 
 ## Java
     java -version
