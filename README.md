@@ -7,3 +7,9 @@ https://labs.play-with-docker.com/
     docker exec -it <containerid> bash
     cat /var/jenkins_home/secrets/initialAdminPassword #copy password
     
+
+
+## Java
+
+    javac helloworld.java
+    java helloworld
