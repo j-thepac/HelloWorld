@@ -10,6 +10,6 @@ https://labs.play-with-docker.com/
 
 
 ## Java
-
+    java -version
     javac helloworld.java
     java helloworld
