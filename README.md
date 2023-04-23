@@ -9,6 +9,10 @@ https://labs.play-with-docker.com/
     cat /var/jenkins_home/secrets/initialAdminPassword #copy password
     
 Steps:
+- In docker-playground page click on link "8080"
+- Install all default addons
+- Paste above password when asked 
+- Skip the rest of the steps 
 - Jenkins Home 
 - New Item > Name "test" >Select  FreeStype Project > Ok
 - Select "GitHub project"
